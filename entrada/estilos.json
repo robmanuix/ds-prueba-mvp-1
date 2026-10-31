@@ -1,0 +1,390 @@
+{
+  "texto": [
+    {
+      "nombre": "Web/Titular/5XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 72,
+      "altura": 80,
+      "espaciado": -0.5,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Titular/4XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 64,
+      "altura": 72,
+      "espaciado": -0.5,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Titular/3XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 56,
+      "altura": 64,
+      "espaciado": -0.5,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Titular/2XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 48,
+      "altura": 56,
+      "espaciado": -0.5,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Titular/XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 40,
+      "altura": 48,
+      "espaciado": -0.25,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Titular/L/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 32,
+      "altura": 40,
+      "espaciado": -0.25,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Titular/M/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 28,
+      "altura": 36,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Titular/S/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 24,
+      "altura": 32,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Titular/XS/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 20,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Titular/2XS/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 18,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Texto/XL/Regular",
+      "familia": "Inter",
+      "estilo": "Regular",
+      "tamano": 20,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 400
+    },
+    {
+      "nombre": "Web/Texto/XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 20,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Texto/L/Regular",
+      "familia": "Inter",
+      "estilo": "Regular",
+      "tamano": 18,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 400
+    },
+    {
+      "nombre": "Web/Texto/L/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 18,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Texto/M/Regular",
+      "familia": "Inter",
+      "estilo": "Regular",
+      "tamano": 16,
+      "altura": 24,
+      "espaciado": 0,
+      "peso": 400
+    },
+    {
+      "nombre": "Web/Texto/M/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 16,
+      "altura": 24,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Texto/S/Regular",
+      "familia": "Inter",
+      "estilo": "Regular",
+      "tamano": 14,
+      "altura": 20,
+      "espaciado": 0,
+      "peso": 400
+    },
+    {
+      "nombre": "Web/Texto/S/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 14,
+      "altura": 20,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "Web/Texto/XS/Regular",
+      "familia": "Inter",
+      "estilo": "Regular",
+      "tamano": 12,
+      "altura": 16,
+      "espaciado": 0,
+      "peso": 400
+    },
+    {
+      "nombre": "Web/Texto/XS/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 12,
+      "altura": 16,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Titular/5XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 48,
+      "altura": 56,
+      "espaciado": -0.5,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Titular/4XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 40,
+      "altura": 48,
+      "espaciado": -0.5,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Titular/3XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 36,
+      "altura": 44,
+      "espaciado": -0.5,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Titular/2XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 32,
+      "altura": 40,
+      "espaciado": -0.5,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Titular/XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 28,
+      "altura": 36,
+      "espaciado": -0.25,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Titular/L/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 24,
+      "altura": 32,
+      "espaciado": -0.25,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Titular/M/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 24,
+      "altura": 32,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Titular/S/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 20,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Titular/XS/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 18,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Titular/2XS/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 16,
+      "altura": 24,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Texto/XL/Regular",
+      "familia": "Inter",
+      "estilo": "Regular",
+      "tamano": 20,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 400
+    },
+    {
+      "nombre": "App/Texto/XL/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 20,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Texto/L/Regular",
+      "familia": "Inter",
+      "estilo": "Regular",
+      "tamano": 18,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 400
+    },
+    {
+      "nombre": "App/Texto/L/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 18,
+      "altura": 28,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Texto/M/Regular",
+      "familia": "Inter",
+      "estilo": "Regular",
+      "tamano": 16,
+      "altura": 24,
+      "espaciado": 0,
+      "peso": 400
+    },
+    {
+      "nombre": "App/Texto/M/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 16,
+      "altura": 24,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Texto/S/Regular",
+      "familia": "Inter",
+      "estilo": "Regular",
+      "tamano": 14,
+      "altura": 20,
+      "espaciado": 0,
+      "peso": 400
+    },
+    {
+      "nombre": "App/Texto/S/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 14,
+      "altura": 20,
+      "espaciado": 0,
+      "peso": 600
+    },
+    {
+      "nombre": "App/Texto/XS/Regular",
+      "familia": "Inter",
+      "estilo": "Regular",
+      "tamano": 12,
+      "altura": 16,
+      "espaciado": 0,
+      "peso": 400
+    },
+    {
+      "nombre": "App/Texto/XS/Seminegrita",
+      "familia": "Inter",
+      "estilo": "Semi Bold",
+      "tamano": 12,
+      "altura": 16,
+      "espaciado": 0,
+      "peso": 600
+    }
+  ],
+  "efectos": [
+    {
+      "nombre": "Sombra/N1",
+      "css": "0px 0px 2px 0px rgb(0 0 0 / 0.06), 0px 2px 4px 0px rgb(0 0 0 / 0.08)"
+    },
+    {
+      "nombre": "Sombra/N2",
+      "css": "0px 0px 4px 0px rgb(0 0 0 / 0.06), 0px 4px 8px 0px rgb(0 0 0 / 0.1)"
+    },
+    {
+      "nombre": "Sombra/N3",
+      "css": "0px 2px 8px 0px rgb(0 0 0 / 0.07), 0px 8px 16px 0px rgb(0 0 0 / 0.11)"
+    },
+    {
+      "nombre": "Sombra/N4",
+      "css": "0px 4px 12px 0px rgb(0 0 0 / 0.08), 0px 12px 24px 0px rgb(0 0 0 / 0.12)"
+    },
+    {
+      "nombre": "Sombra/N5",
+      "css": "0px 6px 16px 0px rgb(0 0 0 / 0.09), 0px 16px 32px 0px rgb(0 0 0 / 0.14)"
+    },
+    {
+      "nombre": "Sombra/N6",
+      "css": "0px 8px 24px 0px rgb(0 0 0 / 0.1), 0px 24px 48px 0px rgb(0 0 0 / 0.16)"
+    }
+  ]
+}

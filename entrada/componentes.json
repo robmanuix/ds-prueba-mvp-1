@@ -1,0 +1,1426 @@
+{
+  "generado": "2026-10-31",
+  "archivoFigma": "DSGBR (Copy)",
+  "componentes": [
+    {
+      "nombre": "Botón",
+      "plataforma": "Web",
+      "archivo": "componentes/web-boton.png",
+      "ancho": 1500,
+      "alto": 288,
+      "variantes": 60,
+      "propiedades": [
+        {
+          "nombre": "Texto",
+          "tipo": "TEXT",
+          "porDefecto": "Botón"
+        },
+        {
+          "nombre": "Ícono izquierdo",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Ícono derecho",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Ícono inicial",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "27:685"
+        },
+        {
+          "nombre": "Ícono final",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:89"
+        },
+        {
+          "nombre": "Jerarquía",
+          "tipo": "VARIANT",
+          "valores": [
+            "Primario",
+            "Secundario",
+            "Terciario",
+            "Destructivo"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M",
+            "S"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Hover",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Botón píldora",
+      "plataforma": "Web",
+      "archivo": "componentes/web-boton-pildora.png",
+      "ancho": 1500,
+      "alto": 288,
+      "variantes": 60,
+      "propiedades": [
+        {
+          "nombre": "Texto",
+          "tipo": "TEXT",
+          "porDefecto": "Botón"
+        },
+        {
+          "nombre": "Ícono izquierdo",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Ícono derecho",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Ícono inicial",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "27:685"
+        },
+        {
+          "nombre": "Ícono final",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:89"
+        },
+        {
+          "nombre": "Jerarquía",
+          "tipo": "VARIANT",
+          "valores": [
+            "Primario",
+            "Secundario",
+            "Terciario",
+            "Destructivo"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M",
+            "S"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Hover",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Botón de ícono",
+      "plataforma": "Web",
+      "archivo": "componentes/web-boton-de-icono.png",
+      "ancho": 1500,
+      "alto": 216,
+      "variantes": 60,
+      "propiedades": [
+        {
+          "nombre": "Ícono",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "29:894"
+        },
+        {
+          "nombre": "Jerarquía",
+          "tipo": "VARIANT",
+          "valores": [
+            "Primario",
+            "Secundario",
+            "Terciario",
+            "Destructivo"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M",
+            "S"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Hover",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Grupo de botones",
+      "plataforma": "Web",
+      "archivo": "componentes/web-grupo-de-botones.png",
+      "ancho": 1200,
+      "alto": 152,
+      "variantes": 6,
+      "propiedades": [
+        {
+          "nombre": "Orientación",
+          "tipo": "VARIANT",
+          "valores": [
+            "Horizontal",
+            "Vertical"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M",
+            "S"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Grupo de botones píldora",
+      "plataforma": "Web",
+      "archivo": "componentes/web-grupo-de-botones-pildora.png",
+      "ancho": 1200,
+      "alto": 152,
+      "variantes": 6,
+      "propiedades": [
+        {
+          "nombre": "Orientación",
+          "tipo": "VARIANT",
+          "valores": [
+            "Horizontal",
+            "Vertical"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M",
+            "S"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Campo de texto",
+      "plataforma": "Web",
+      "archivo": "componentes/web-campo-de-texto.png",
+      "ancho": 1200,
+      "alto": 512,
+      "variantes": 12,
+      "propiedades": [
+        {
+          "nombre": "Etiqueta",
+          "tipo": "TEXT",
+          "porDefecto": "Etiqueta"
+        },
+        {
+          "nombre": "Valor",
+          "tipo": "TEXT",
+          "porDefecto": "Texto de entrada"
+        },
+        {
+          "nombre": "Texto de ayuda visible",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono inicial",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:449"
+        },
+        {
+          "nombre": "Ícono izquierdo",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Ícono final",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "29:369"
+        },
+        {
+          "nombre": "Ícono derecho",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Hover",
+            "Foco",
+            "Error",
+            "Éxito",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Texto de ayuda",
+      "plataforma": "Web",
+      "archivo": "componentes/web-texto-de-ayuda.png",
+      "ancho": 900,
+      "alto": 112,
+      "variantes": 8,
+      "propiedades": [
+        {
+          "nombre": "Texto",
+          "tipo": "TEXT",
+          "porDefecto": "Texto de ayuda"
+        },
+        {
+          "nombre": "Ícono",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono de ayuda",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "30:329"
+        },
+        {
+          "nombre": "Tipo",
+          "tipo": "VARIANT",
+          "valores": [
+            "Neutro",
+            "Error",
+            "Éxito",
+            "Aviso"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Activo",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Casilla",
+      "plataforma": "Web",
+      "archivo": "componentes/web-casilla.png",
+      "ancho": 1000,
+      "alto": 120,
+      "variantes": 15,
+      "propiedades": [
+        {
+          "nombre": "Etiqueta",
+          "tipo": "TEXT",
+          "porDefecto": "Etiqueta"
+        },
+        {
+          "nombre": "Valor",
+          "tipo": "VARIANT",
+          "valores": [
+            "Sin marcar",
+            "Marcada",
+            "Indeterminada"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Hover",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Opción",
+      "plataforma": "Web",
+      "archivo": "componentes/web-opcion.png",
+      "ancho": 1000,
+      "alto": 120,
+      "variantes": 10,
+      "propiedades": [
+        {
+          "nombre": "Etiqueta",
+          "tipo": "TEXT",
+          "porDefecto": "Etiqueta"
+        },
+        {
+          "nombre": "Valor",
+          "tipo": "VARIANT",
+          "valores": [
+            "Sin marcar",
+            "Marcada"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Hover",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Alerta",
+      "plataforma": "Web",
+      "archivo": "componentes/web-alerta.png",
+      "ancho": 1100,
+      "alto": 360,
+      "variantes": 8,
+      "propiedades": [
+        {
+          "nombre": "Título",
+          "tipo": "TEXT",
+          "porDefecto": "Título de la alerta"
+        },
+        {
+          "nombre": "Descripción",
+          "tipo": "TEXT",
+          "porDefecto": "Descripción breve que explica qué ocurrió y qué hacer."
+        },
+        {
+          "nombre": "Botón cerrar",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono de alerta",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "30:334"
+        },
+        {
+          "nombre": "Ícono de cierre",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:9"
+        },
+        {
+          "nombre": "Tipo",
+          "tipo": "VARIANT",
+          "valores": [
+            "Info",
+            "Éxito",
+            "Aviso",
+            "Error"
+          ]
+        },
+        {
+          "nombre": "Estilo",
+          "tipo": "VARIANT",
+          "valores": [
+            "Sutil",
+            "Intenso"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Indicador de carga",
+      "plataforma": "Web",
+      "archivo": "componentes/web-indicador-de-carga.png",
+      "ancho": 900,
+      "alto": 176,
+      "variantes": 6,
+      "propiedades": [
+        {
+          "nombre": "Tipo",
+          "tipo": "VARIANT",
+          "valores": [
+            "Circular",
+            "Barra"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Fila",
+      "plataforma": "Web",
+      "archivo": "componentes/web-fila.png",
+      "ancho": 1000,
+      "alto": 264,
+      "variantes": 5,
+      "propiedades": [
+        {
+          "nombre": "Título",
+          "tipo": "TEXT",
+          "porDefecto": "Título"
+        },
+        {
+          "nombre": "Subtítulo",
+          "tipo": "TEXT",
+          "porDefecto": "Subtítulo"
+        },
+        {
+          "nombre": "Subtítulo visible",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono izquierdo",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono derecho",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono inicial",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:494"
+        },
+        {
+          "nombre": "Ícono final",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:254"
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Hover",
+            "Presionado",
+            "Seleccionado",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Interruptor",
+      "plataforma": "Web",
+      "archivo": "componentes/web-interruptor.png",
+      "ancho": 1000,
+      "alto": 120,
+      "variantes": 10,
+      "propiedades": [
+        {
+          "nombre": "Etiqueta",
+          "tipo": "TEXT",
+          "porDefecto": "Etiqueta"
+        },
+        {
+          "nombre": "Valor",
+          "tipo": "VARIANT",
+          "valores": [
+            "Apagado",
+            "Encendido"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Hover",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Selector",
+      "plataforma": "Web",
+      "archivo": "componentes/web-selector.png",
+      "ancho": 1200,
+      "alto": 416,
+      "variantes": 10,
+      "propiedades": [
+        {
+          "nombre": "Etiqueta",
+          "tipo": "TEXT",
+          "porDefecto": "Etiqueta"
+        },
+        {
+          "nombre": "Valor",
+          "tipo": "TEXT",
+          "porDefecto": "Seleccionar opción"
+        },
+        {
+          "nombre": "Ícono de flecha",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:374"
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Hover",
+            "Abierto",
+            "Error",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Pestaña",
+      "plataforma": "Web",
+      "archivo": "componentes/web-pestana.png",
+      "ancho": 468,
+      "alto": 91,
+      "variantes": 4,
+      "propiedades": [
+        {
+          "nombre": "Texto",
+          "tipo": "TEXT",
+          "porDefecto": "Pestaña"
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Hover",
+            "Seleccionada",
+            "Deshabilitada"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Diálogo",
+      "plataforma": "Web",
+      "archivo": "componentes/web-dialogo.png",
+      "ancho": 1104,
+      "alto": 260,
+      "variantes": 2,
+      "propiedades": [
+        {
+          "nombre": "Título",
+          "tipo": "TEXT",
+          "porDefecto": "Título del diálogo"
+        },
+        {
+          "nombre": "Descripción",
+          "tipo": "TEXT",
+          "porDefecto": "Descripción que explica la acción y sus consecuencias."
+        },
+        {
+          "nombre": "Tipo",
+          "tipo": "VARIANT",
+          "valores": [
+            "Estándar",
+            "Destructivo"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Botón",
+      "plataforma": "App",
+      "archivo": "componentes/app-boton.png",
+      "ancho": 1500,
+      "alto": 224,
+      "variantes": 48,
+      "propiedades": [
+        {
+          "nombre": "Texto",
+          "tipo": "TEXT",
+          "porDefecto": "Botón"
+        },
+        {
+          "nombre": "Ícono izquierdo",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Ícono derecho",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Ícono inicial",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "27:685"
+        },
+        {
+          "nombre": "Ícono final",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:89"
+        },
+        {
+          "nombre": "Jerarquía",
+          "tipo": "VARIANT",
+          "valores": [
+            "Primario",
+            "Secundario",
+            "Terciario",
+            "Destructivo"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M",
+            "S"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Botón píldora",
+      "plataforma": "App",
+      "archivo": "componentes/app-boton-pildora.png",
+      "ancho": 1500,
+      "alto": 224,
+      "variantes": 48,
+      "propiedades": [
+        {
+          "nombre": "Texto",
+          "tipo": "TEXT",
+          "porDefecto": "Botón"
+        },
+        {
+          "nombre": "Ícono izquierdo",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Ícono derecho",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Ícono inicial",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "27:685"
+        },
+        {
+          "nombre": "Ícono final",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:89"
+        },
+        {
+          "nombre": "Jerarquía",
+          "tipo": "VARIANT",
+          "valores": [
+            "Primario",
+            "Secundario",
+            "Terciario",
+            "Destructivo"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M",
+            "S"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Botón de ícono",
+      "plataforma": "App",
+      "archivo": "componentes/app-boton-de-icono.png",
+      "ancho": 1500,
+      "alto": 160,
+      "variantes": 48,
+      "propiedades": [
+        {
+          "nombre": "Ícono",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "29:894"
+        },
+        {
+          "nombre": "Jerarquía",
+          "tipo": "VARIANT",
+          "valores": [
+            "Primario",
+            "Secundario",
+            "Terciario",
+            "Destructivo"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M",
+            "S"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Grupo de botones",
+      "plataforma": "App",
+      "archivo": "componentes/app-grupo-de-botones.png",
+      "ancho": 1200,
+      "alto": 152,
+      "variantes": 6,
+      "propiedades": [
+        {
+          "nombre": "Orientación",
+          "tipo": "VARIANT",
+          "valores": [
+            "Horizontal",
+            "Vertical"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M",
+            "S"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Grupo de botones píldora",
+      "plataforma": "App",
+      "archivo": "componentes/app-grupo-de-botones-pildora.png",
+      "ancho": 1200,
+      "alto": 152,
+      "variantes": 6,
+      "propiedades": [
+        {
+          "nombre": "Orientación",
+          "tipo": "VARIANT",
+          "valores": [
+            "Horizontal",
+            "Vertical"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M",
+            "S"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Campo de texto",
+      "plataforma": "App",
+      "archivo": "componentes/app-campo-de-texto.png",
+      "ancho": 1200,
+      "alto": 512,
+      "variantes": 10,
+      "propiedades": [
+        {
+          "nombre": "Etiqueta",
+          "tipo": "TEXT",
+          "porDefecto": "Etiqueta"
+        },
+        {
+          "nombre": "Valor",
+          "tipo": "TEXT",
+          "porDefecto": "Texto de entrada"
+        },
+        {
+          "nombre": "Texto de ayuda visible",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono inicial",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:449"
+        },
+        {
+          "nombre": "Ícono izquierdo",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Ícono final",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "29:369"
+        },
+        {
+          "nombre": "Ícono derecho",
+          "tipo": "BOOLEAN",
+          "porDefecto": false
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Foco",
+            "Error",
+            "Éxito",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Texto de ayuda",
+      "plataforma": "App",
+      "archivo": "componentes/app-texto-de-ayuda.png",
+      "ancho": 900,
+      "alto": 112,
+      "variantes": 8,
+      "propiedades": [
+        {
+          "nombre": "Texto",
+          "tipo": "TEXT",
+          "porDefecto": "Texto de ayuda"
+        },
+        {
+          "nombre": "Ícono",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono de ayuda",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "30:329"
+        },
+        {
+          "nombre": "Tipo",
+          "tipo": "VARIANT",
+          "valores": [
+            "Neutro",
+            "Error",
+            "Éxito",
+            "Aviso"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Activo",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Casilla",
+      "plataforma": "App",
+      "archivo": "componentes/app-casilla.png",
+      "ancho": 1000,
+      "alto": 120,
+      "variantes": 12,
+      "propiedades": [
+        {
+          "nombre": "Etiqueta",
+          "tipo": "TEXT",
+          "porDefecto": "Etiqueta"
+        },
+        {
+          "nombre": "Valor",
+          "tipo": "VARIANT",
+          "valores": [
+            "Sin marcar",
+            "Marcada",
+            "Indeterminada"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Opción",
+      "plataforma": "App",
+      "archivo": "componentes/app-opcion.png",
+      "ancho": 1000,
+      "alto": 72,
+      "variantes": 8,
+      "propiedades": [
+        {
+          "nombre": "Etiqueta",
+          "tipo": "TEXT",
+          "porDefecto": "Etiqueta"
+        },
+        {
+          "nombre": "Valor",
+          "tipo": "VARIANT",
+          "valores": [
+            "Sin marcar",
+            "Marcada"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Alerta",
+      "plataforma": "App",
+      "archivo": "componentes/app-alerta.png",
+      "ancho": 1100,
+      "alto": 360,
+      "variantes": 8,
+      "propiedades": [
+        {
+          "nombre": "Título",
+          "tipo": "TEXT",
+          "porDefecto": "Título de la alerta"
+        },
+        {
+          "nombre": "Descripción",
+          "tipo": "TEXT",
+          "porDefecto": "Descripción breve que explica qué ocurrió y qué hacer."
+        },
+        {
+          "nombre": "Botón cerrar",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono de alerta",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "30:334"
+        },
+        {
+          "nombre": "Ícono de cierre",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:9"
+        },
+        {
+          "nombre": "Tipo",
+          "tipo": "VARIANT",
+          "valores": [
+            "Info",
+            "Éxito",
+            "Aviso",
+            "Error"
+          ]
+        },
+        {
+          "nombre": "Estilo",
+          "tipo": "VARIANT",
+          "valores": [
+            "Sutil",
+            "Intenso"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Indicador de carga",
+      "plataforma": "App",
+      "archivo": "componentes/app-indicador-de-carga.png",
+      "ancho": 900,
+      "alto": 176,
+      "variantes": 6,
+      "propiedades": [
+        {
+          "nombre": "Tipo",
+          "tipo": "VARIANT",
+          "valores": [
+            "Circular",
+            "Barra"
+          ]
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "S",
+            "M",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Fila",
+      "plataforma": "App",
+      "archivo": "componentes/app-fila.png",
+      "ancho": 1000,
+      "alto": 184,
+      "variantes": 4,
+      "propiedades": [
+        {
+          "nombre": "Título",
+          "tipo": "TEXT",
+          "porDefecto": "Título"
+        },
+        {
+          "nombre": "Subtítulo",
+          "tipo": "TEXT",
+          "porDefecto": "Subtítulo"
+        },
+        {
+          "nombre": "Subtítulo visible",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono izquierdo",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono derecho",
+          "tipo": "BOOLEAN",
+          "porDefecto": true
+        },
+        {
+          "nombre": "Ícono inicial",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:494"
+        },
+        {
+          "nombre": "Ícono final",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:254"
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Presionado",
+            "Seleccionado",
+            "Deshabilitado"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Interruptor",
+      "plataforma": "App",
+      "archivo": "componentes/app-interruptor.png",
+      "ancho": 1000,
+      "alto": 191,
+      "variantes": 16,
+      "propiedades": [
+        {
+          "nombre": "Etiqueta",
+          "tipo": "TEXT",
+          "porDefecto": "Etiqueta"
+        },
+        {
+          "nombre": "Valor",
+          "tipo": "VARIANT",
+          "valores": [
+            "Apagado",
+            "Encendido"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Presionado",
+            "Foco",
+            "Deshabilitado"
+          ]
+        },
+        {
+          "nombre": "Plataforma",
+          "tipo": "VARIANT",
+          "valores": [
+            "Android",
+            "iOS"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Selector",
+      "plataforma": "App",
+      "archivo": "componentes/app-selector.png",
+      "ancho": 1200,
+      "alto": 624,
+      "variantes": 16,
+      "propiedades": [
+        {
+          "nombre": "Etiqueta",
+          "tipo": "TEXT",
+          "porDefecto": "Etiqueta"
+        },
+        {
+          "nombre": "Valor",
+          "tipo": "TEXT",
+          "porDefecto": "Seleccionar opción"
+        },
+        {
+          "nombre": "Ícono de flecha",
+          "tipo": "INSTANCE_SWAP",
+          "porDefecto": "28:374"
+        },
+        {
+          "nombre": "Tamaño",
+          "tipo": "VARIANT",
+          "valores": [
+            "L",
+            "M"
+          ]
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Abierto",
+            "Error",
+            "Deshabilitado"
+          ]
+        },
+        {
+          "nombre": "Plataforma",
+          "tipo": "VARIANT",
+          "valores": [
+            "Android",
+            "iOS"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Pestaña",
+      "plataforma": "App",
+      "archivo": "componentes/app-pestana.png",
+      "ancho": 690,
+      "alto": 91,
+      "variantes": 6,
+      "propiedades": [
+        {
+          "nombre": "Texto",
+          "tipo": "TEXT",
+          "porDefecto": "Pestaña"
+        },
+        {
+          "nombre": "Estado",
+          "tipo": "VARIANT",
+          "valores": [
+            "Reposo",
+            "Seleccionada",
+            "Deshabilitada"
+          ]
+        },
+        {
+          "nombre": "Plataforma",
+          "tipo": "VARIANT",
+          "valores": [
+            "Android",
+            "iOS"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Diálogo",
+      "plataforma": "App",
+      "archivo": "componentes/app-dialogo.png",
+      "ancho": 1800,
+      "alto": 284,
+      "variantes": 4,
+      "propiedades": [
+        {
+          "nombre": "Título",
+          "tipo": "TEXT",
+          "porDefecto": "Título del diálogo"
+        },
+        {
+          "nombre": "Descripción",
+          "tipo": "TEXT",
+          "porDefecto": "Descripción que explica la acción y sus consecuencias."
+        },
+        {
+          "nombre": "Tipo",
+          "tipo": "VARIANT",
+          "valores": [
+            "Estándar",
+            "Destructivo"
+          ]
+        },
+        {
+          "nombre": "Plataforma",
+          "tipo": "VARIANT",
+          "valores": [
+            "Android",
+            "iOS"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Botón fijo",
+      "plataforma": "App",
+      "archivo": "componentes/app-boton-fijo.png",
+      "ancho": 1732,
+      "alto": 216,
+      "variantes": 4,
+      "propiedades": [
+        {
+          "nombre": "Plataforma",
+          "tipo": "VARIANT",
+          "valores": [
+            "iOS",
+            "Android"
+          ]
+        },
+        {
+          "nombre": "Secundaria",
+          "tipo": "VARIANT",
+          "valores": [
+            "No",
+            "Sí"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Sistema",
+      "plataforma": "App",
+      "archivo": "componentes/app-sistema.png",
+      "ancho": 1000,
+      "alto": 198,
+      "variantes": 4,
+      "propiedades": [
+        {
+          "nombre": "Elemento",
+          "tipo": "VARIANT",
+          "valores": [
+            "Barra de estado",
+            "Navegación"
+          ]
+        },
+        {
+          "nombre": "Plataforma",
+          "tipo": "VARIANT",
+          "valores": [
+            "iOS",
+            "Android"
+          ]
+        }
+      ]
+    }
+  ]
+}
