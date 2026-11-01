@@ -5,13 +5,13 @@
   "plataformas": [
     "web"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "generado": "2026-11-01",
   "archivoFigma": "DSGBR (Copy)",
   "colores": [
     {
       "nombre": "Brand",
-      "hex": "#7B1CCA"
+      "hex": "#5DBC34"
     }
   ],
   "tipografia": "Poppins"
