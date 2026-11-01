@@ -18,15 +18,15 @@ extension Color {
 
 // Colores primitivos
 extension Color {
-    public static let brand100 = Color(argb: 0xFFE7EFFE)
-    public static let brand200 = Color(argb: 0xFFCFDEFF)
-    public static let brand300 = Color(argb: 0xFFA8C4FE)
-    public static let brand400 = Color(argb: 0xFF7DA5FE)
-    public static let brand500 = Color(argb: 0xFF5283FE)
-    public static let brand600 = Color(argb: 0xFF3665E4)
-    public static let brand700 = Color(argb: 0xFF284EB5)
-    public static let brand800 = Color(argb: 0xFF1D3983)
-    public static let brand900 = Color(argb: 0xFF122555)
+    public static let brand100 = Color(argb: 0xFFF4EFFF)
+    public static let brand200 = Color(argb: 0xFFE7DAFF)
+    public static let brand300 = Color(argb: 0xFFD6BCFF)
+    public static let brand400 = Color(argb: 0xFFBE8FFF)
+    public static let brand500 = Color(argb: 0xFFA95AFF)
+    public static let brand600 = Color(argb: 0xFF8B35DD)
+    public static let brand700 = Color(argb: 0xFF6E1EB4)
+    public static let brand800 = Color(argb: 0xFF4D0E82)
+    public static let brand900 = Color(argb: 0xFF310456)
     public static let blue100 = Color(argb: 0xFFE5F0FC)
     public static let blue200 = Color(argb: 0xFFCAE1FA)
     public static let blue300 = Color(argb: 0xFF9AC9FA)
@@ -151,10 +151,10 @@ extension Color {
     public static let contentSecondaryInverse = Color(light: 0xFFC8C8C8, dark: 0xFF5A5A5A)
     public static let contentTertiaryInverse = Color(light: 0xFF8F8F8F, dark: 0xFF676767)
     public static let contentDisabled = Color(light: 0xFF8F8F8F, dark: 0xFF5A5A5A)
-    public static let contentBrand = Color(light: 0xFF3665E4, dark: 0xFFA8C4FE)
-    public static let contentLink = Color(light: 0xFF3665E4, dark: 0xFFA8C4FE)
-    public static let contentLinkHover = Color(light: 0xFF284EB5, dark: 0xFFCFDEFF)
-    public static let contentLinkPressed = Color(light: 0xFF1D3983, dark: 0xFFE7EFFE)
+    public static let contentBrand = Color(light: 0xFF8B35DD, dark: 0xFFD6BCFF)
+    public static let contentLink = Color(light: 0xFF8B35DD, dark: 0xFFD6BCFF)
+    public static let contentLinkHover = Color(light: 0xFF6E1EB4, dark: 0xFFE7DAFF)
+    public static let contentLinkPressed = Color(light: 0xFF4D0E82, dark: 0xFFF4EFFF)
     public static let contentNotice = Color(light: 0xFF864303, dark: 0xFFF0B68F)
     public static let contentNoticeBold = Color(light: 0xFF633001, dark: 0xFFF5D7C4)
     public static let contentNegative = Color(light: 0xFFCC2827, dark: 0xFFFEABA1)
@@ -166,12 +166,12 @@ extension Color {
     public static let backgroundPrimary = Color(light: 0xFFFFFFFF, dark: 0xFF0B0B0B)
     public static let backgroundHover = Color(light: 0xFFE6E6E6, dark: 0xFF151515)
     public static let backgroundPressed = Color(light: 0xFFC8C8C8, dark: 0xFF2A2A2A)
-    public static let backgroundSelected = Color(light: 0xFFE7EFFE, dark: 0xFF122555)
+    public static let backgroundSelected = Color(light: 0xFFF4EFFF, dark: 0xFF310456)
     public static let backgroundDisabled = Color(light: 0xFFE6E6E6, dark: 0xFF1F1F1F)
     public static let backgroundInverse = Color(light: 0xFF151515, dark: 0xFFF5F5F5)
-    public static let backgroundBrand = Color(light: 0xFF3665E4, dark: 0xFF7DA5FE)
-    public static let backgroundBrandHover = Color(light: 0xFF3665E4, dark: 0xFFA8C4FE)
-    public static let backgroundBrandPressed = Color(light: 0xFF284EB5, dark: 0xFFCFDEFF)
+    public static let backgroundBrand = Color(light: 0xFF8B35DD, dark: 0xFFBE8FFF)
+    public static let backgroundBrandHover = Color(light: 0xFF8B35DD, dark: 0xFFD6BCFF)
+    public static let backgroundBrandPressed = Color(light: 0xFF6E1EB4, dark: 0xFFE7DAFF)
     public static let backgroundInfo = Color(light: 0xFF0574C7, dark: 0xFF5FADF9)
     public static let backgroundInfoSubtle = Color(light: 0xFFE5F0FC, dark: 0xFF022A4D)
     public static let backgroundNotice = Color(light: 0xFFD36D02, dark: 0xFFE88F4C)
@@ -186,7 +186,7 @@ extension Color {
     public static let borderSecondary = Color(light: 0xFFC8C8C8, dark: 0xFF2A2A2A)
     public static let borderTertiary = Color(light: 0xFFE6E6E6, dark: 0xFF1F1F1F)
     public static let borderDisabled = Color(light: 0xFFC8C8C8, dark: 0xFF2A2A2A)
-    public static let borderBrand = Color(light: 0xFF5283FE, dark: 0xFF7DA5FE)
+    public static let borderBrand = Color(light: 0xFFA95AFF, dark: 0xFFBE8FFF)
     public static let borderInverse = Color(light: 0xFF424242, dark: 0xFFABABAB)
     public static let borderFocus = Color(light: 0xFF1E8FEE, dark: 0xFF5FADF9)
     public static let borderInfo = Color(light: 0xFF1E8FEE, dark: 0xFF5FADF9)
@@ -203,23 +203,6 @@ extension Color {
     public static let surface6 = Color(light: 0xFFFFFFFF, dark: 0xFF4E4E4E)
     public static let overlay50 = Color(light: 0x80000000, dark: 0x80000000)
     public static let overlay50Inverse = Color(light: 0x80FFFFFF, dark: 0x80FFFFFF)
-    public static let colorDataCategory1 = Color(light: 0xFF0574C7, dark: 0xFF5FADF9)
-    public static let colorDataCategory2 = Color(light: 0xFFAC5701, dark: 0xFFE88F4C)
-    public static let colorDataCategory3 = Color(light: 0xFF048936, dark: 0xFF66BF75)
-    public static let colorDataCategory4 = Color(light: 0xFF8C4AC8, dark: 0xFFBE8DF4)
-    public static let colorDataCategory5 = Color(light: 0xFFBF2F77, dark: 0xFFF07CAC)
-    public static let colorDataCategory6 = Color(light: 0xFF067F94, dark: 0xFF60B6CA)
-    public static let colorDataCategory7 = Color(light: 0xFF867003, dark: 0xFFC1A63A)
-    public static let colorDataCategory8 = Color(light: 0xFFCC2827, dark: 0xFFFC7B6F)
-    public static let colorDataSequential1 = Color(light: 0xFFE7EFFE, dark: 0xFF122555)
-    public static let colorDataSequential2 = Color(light: 0xFFCFDEFF, dark: 0xFF1D3983)
-    public static let colorDataSequential3 = Color(light: 0xFFA8C4FE, dark: 0xFF284EB5)
-    public static let colorDataSequential4 = Color(light: 0xFF7DA5FE, dark: 0xFF3665E4)
-    public static let colorDataSequential5 = Color(light: 0xFF5283FE, dark: 0xFF5283FE)
-    public static let colorDataSequential6 = Color(light: 0xFF3665E4, dark: 0xFF7DA5FE)
-    public static let colorDataSequential7 = Color(light: 0xFF284EB5, dark: 0xFFA8C4FE)
-    public static let colorDataSequential8 = Color(light: 0xFF1D3983, dark: 0xFFCFDEFF)
-    public static let colorDataSequential9 = Color(light: 0xFF122555, dark: 0xFFE7EFFE)
 }
 
 // Medidas, tipografía y movimiento
@@ -268,10 +251,10 @@ public enum DS {
     public static let space12xl: CGFloat = 112
     public static let radiusNone: CGFloat = 0
     public static let radiusXs: CGFloat = 4
-    public static let radiusS: CGFloat = 8
-    public static let radiusM: CGFloat = 12
-    public static let radiusL: CGFloat = 16
-    public static let radiusXl: CGFloat = 24
+    public static let radiusS: CGFloat = 12
+    public static let radiusM: CGFloat = 20
+    public static let radiusL: CGFloat = 28
+    public static let radiusXl: CGFloat = 40
     public static let radiusPill: CGFloat = 999
     public static let borderWidthXs: CGFloat = 1
     public static let borderWidthS: CGFloat = 1.5
@@ -406,16 +389,16 @@ public enum DS {
     public static let elevation6Layer1OffsetY: Double = 8
     public static let elevation6Layer2Blur: Double = 48
     public static let elevation6Layer2OffsetY: Double = 24
-    public static let motionDurationFast: Double = 100
-    public static let motionDurationMedium: Double = 200
-    public static let motionDurationSlow: Double = 300
-    public static let motionDurationEmphasis: Double = 500
-    public static let fontFamilyBrand = "Inter"
+    public static let motionDurationFast: Double = 140
+    public static let motionDurationMedium: Double = 260
+    public static let motionDurationSlow: Double = 400
+    public static let motionDurationEmphasis: Double = 600
+    public static let fontFamilyBrand = "Poppins"
     public static let fontFamilySystemIos = "SF Pro Text"
     public static let fontFamilySystemAndroid = "Roboto"
     public static let fontWeightRegular: Font.Weight = .regular
     public static let fontWeightSemibold: Font.Weight = .semibold
-    public static let typographyFamily = "Inter"
+    public static let typographyFamily = "Poppins"
     public static let typographyHeading5xlSemiboldWeight: Font.Weight = .semibold
     public static let typographyHeading4xlSemiboldWeight: Font.Weight = .semibold
     public static let typographyHeading3xlSemiboldWeight: Font.Weight = .semibold
@@ -437,6 +420,6 @@ public enum DS {
     public static let typographyTextXsRegularWeight: Font.Weight = .regular
     public static let typographyTextXsSemiboldWeight: Font.Weight = .semibold
     public static let motionEasingStandard = "cubic-bezier(0.2, 0, 0, 1)"
-    public static let motionEasingEnter = "cubic-bezier(0, 0, 0, 1)"
+    public static let motionEasingEnter = "cubic-bezier(0.34, 1.56, 0.64, 1)"
     public static let motionEasingExit = "cubic-bezier(0.3, 0, 1, 1)"
 }

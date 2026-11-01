@@ -1,14 +1,14 @@
 /* Generado por DSGBR. Importa tokens.css antes que este archivo. */
 @theme {
-  --color-brand-100: #e7effe;
-  --color-brand-200: #cfdeff;
-  --color-brand-300: #a8c4fe;
-  --color-brand-400: #7da5fe;
-  --color-brand-500: #5283fe;
-  --color-brand-600: #3665e4;
-  --color-brand-700: #284eb5;
-  --color-brand-800: #1d3983;
-  --color-brand-900: #122555;
+  --color-brand-100: #f4efff;
+  --color-brand-200: #e7daff;
+  --color-brand-300: #d6bcff;
+  --color-brand-400: #be8fff;
+  --color-brand-500: #a95aff;
+  --color-brand-600: #8b35dd;
+  --color-brand-700: #6e1eb4;
+  --color-brand-800: #4d0e82;
+  --color-brand-900: #310456;
   --color-blue-100: #e5f0fc;
   --color-blue-200: #cae1fa;
   --color-blue-300: #9ac9fa;
@@ -124,16 +124,16 @@
   --color-base-white-50: rgb(255 255 255 / 0.5);
   --radius-none: 0;
   --radius-xs: 4px;
-  --radius-s: 8px;
-  --radius-m: 12px;
-  --radius-l: 16px;
-  --radius-xl: 24px;
+  --radius-s: 12px;
+  --radius-m: 20px;
+  --radius-l: 28px;
+  --radius-xl: 40px;
   --radius-pill: 999px;
   --breakpoint-s: 393px;
   --breakpoint-m: 768px;
   --breakpoint-l: 1024px;
   --breakpoint-xl: 1440px;
-  --font-brand: "Inter", system-ui, sans-serif;
+  --font-brand: "Poppins", system-ui, sans-serif;
   --shadow-elevation-1: 0 var(--elevation-1-layer-1-offset-y) var(--elevation-1-layer-1-blur) var(--elevation-1-layer-1-color), 0 var(--elevation-1-layer-2-offset-y) var(--elevation-1-layer-2-blur) var(--elevation-1-layer-2-color);
   --shadow-elevation-2: 0 var(--elevation-2-layer-1-offset-y) var(--elevation-2-layer-1-blur) var(--elevation-2-layer-1-color), 0 var(--elevation-2-layer-2-offset-y) var(--elevation-2-layer-2-blur) var(--elevation-2-layer-2-color);
   --shadow-elevation-3: 0 var(--elevation-3-layer-1-offset-y) var(--elevation-3-layer-1-blur) var(--elevation-3-layer-1-color), 0 var(--elevation-3-layer-2-offset-y) var(--elevation-3-layer-2-blur) var(--elevation-3-layer-2-color);

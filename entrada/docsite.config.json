@@ -1,0 +1,18 @@
+{
+  "cliente": "Prueba MVP 1",
+  "marca": "Prueba MVP 1",
+  "base": "expresiva",
+  "plataformas": [
+    "web"
+  ],
+  "version": "1.0.1",
+  "generado": "2026-11-01",
+  "archivoFigma": "DSGBR (Copy)",
+  "colores": [
+    {
+      "nombre": "Brand",
+      "hex": "#7B1CCA"
+    }
+  ],
+  "tipografia": "Poppins"
+}

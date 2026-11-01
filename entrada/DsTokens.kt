@@ -7,15 +7,15 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 object DsTokens {
-    val brand100 = Color(0xFFE7EFFE)
-    val brand200 = Color(0xFFCFDEFF)
-    val brand300 = Color(0xFFA8C4FE)
-    val brand400 = Color(0xFF7DA5FE)
-    val brand500 = Color(0xFF5283FE)
-    val brand600 = Color(0xFF3665E4)
-    val brand700 = Color(0xFF284EB5)
-    val brand800 = Color(0xFF1D3983)
-    val brand900 = Color(0xFF122555)
+    val brand100 = Color(0xFFF4EFFF)
+    val brand200 = Color(0xFFE7DAFF)
+    val brand300 = Color(0xFFD6BCFF)
+    val brand400 = Color(0xFFBE8FFF)
+    val brand500 = Color(0xFFA95AFF)
+    val brand600 = Color(0xFF8B35DD)
+    val brand700 = Color(0xFF6E1EB4)
+    val brand800 = Color(0xFF4D0E82)
+    val brand900 = Color(0xFF310456)
     val blue100 = Color(0xFFE5F0FC)
     val blue200 = Color(0xFFCAE1FA)
     val blue300 = Color(0xFF9AC9FA)
@@ -138,10 +138,10 @@ object DsTokens {
         val contentSecondaryInverse = Color(0xFFC8C8C8)
         val contentTertiaryInverse = Color(0xFF8F8F8F)
         val contentDisabled = Color(0xFF8F8F8F)
-        val contentBrand = Color(0xFF3665E4)
-        val contentLink = Color(0xFF3665E4)
-        val contentLinkHover = Color(0xFF284EB5)
-        val contentLinkPressed = Color(0xFF1D3983)
+        val contentBrand = Color(0xFF8B35DD)
+        val contentLink = Color(0xFF8B35DD)
+        val contentLinkHover = Color(0xFF6E1EB4)
+        val contentLinkPressed = Color(0xFF4D0E82)
         val contentNotice = Color(0xFF864303)
         val contentNoticeBold = Color(0xFF633001)
         val contentNegative = Color(0xFFCC2827)
@@ -153,12 +153,12 @@ object DsTokens {
         val backgroundPrimary = Color(0xFFFFFFFF)
         val backgroundHover = Color(0xFFE6E6E6)
         val backgroundPressed = Color(0xFFC8C8C8)
-        val backgroundSelected = Color(0xFFE7EFFE)
+        val backgroundSelected = Color(0xFFF4EFFF)
         val backgroundDisabled = Color(0xFFE6E6E6)
         val backgroundInverse = Color(0xFF151515)
-        val backgroundBrand = Color(0xFF3665E4)
-        val backgroundBrandHover = Color(0xFF3665E4)
-        val backgroundBrandPressed = Color(0xFF284EB5)
+        val backgroundBrand = Color(0xFF8B35DD)
+        val backgroundBrandHover = Color(0xFF8B35DD)
+        val backgroundBrandPressed = Color(0xFF6E1EB4)
         val backgroundInfo = Color(0xFF0574C7)
         val backgroundInfoSubtle = Color(0xFFE5F0FC)
         val backgroundNotice = Color(0xFFD36D02)
@@ -173,7 +173,7 @@ object DsTokens {
         val borderSecondary = Color(0xFFC8C8C8)
         val borderTertiary = Color(0xFFE6E6E6)
         val borderDisabled = Color(0xFFC8C8C8)
-        val borderBrand = Color(0xFF5283FE)
+        val borderBrand = Color(0xFFA95AFF)
         val borderInverse = Color(0xFF424242)
         val borderFocus = Color(0xFF1E8FEE)
         val borderInfo = Color(0xFF1E8FEE)
@@ -190,23 +190,6 @@ object DsTokens {
         val surface6 = Color(0xFFFFFFFF)
         val overlay50 = Color(0x80000000)
         val overlay50Inverse = Color(0x80FFFFFF)
-        val colorDataCategory1 = Color(0xFF0574C7)
-        val colorDataCategory2 = Color(0xFFAC5701)
-        val colorDataCategory3 = Color(0xFF048936)
-        val colorDataCategory4 = Color(0xFF8C4AC8)
-        val colorDataCategory5 = Color(0xFFBF2F77)
-        val colorDataCategory6 = Color(0xFF067F94)
-        val colorDataCategory7 = Color(0xFF867003)
-        val colorDataCategory8 = Color(0xFFCC2827)
-        val colorDataSequential1 = Color(0xFFE7EFFE)
-        val colorDataSequential2 = Color(0xFFCFDEFF)
-        val colorDataSequential3 = Color(0xFFA8C4FE)
-        val colorDataSequential4 = Color(0xFF7DA5FE)
-        val colorDataSequential5 = Color(0xFF5283FE)
-        val colorDataSequential6 = Color(0xFF3665E4)
-        val colorDataSequential7 = Color(0xFF284EB5)
-        val colorDataSequential8 = Color(0xFF1D3983)
-        val colorDataSequential9 = Color(0xFF122555)
     }
 
     object Oscuro {
@@ -217,10 +200,10 @@ object DsTokens {
         val contentSecondaryInverse = Color(0xFF5A5A5A)
         val contentTertiaryInverse = Color(0xFF676767)
         val contentDisabled = Color(0xFF5A5A5A)
-        val contentBrand = Color(0xFFA8C4FE)
-        val contentLink = Color(0xFFA8C4FE)
-        val contentLinkHover = Color(0xFFCFDEFF)
-        val contentLinkPressed = Color(0xFFE7EFFE)
+        val contentBrand = Color(0xFFD6BCFF)
+        val contentLink = Color(0xFFD6BCFF)
+        val contentLinkHover = Color(0xFFE7DAFF)
+        val contentLinkPressed = Color(0xFFF4EFFF)
         val contentNotice = Color(0xFFF0B68F)
         val contentNoticeBold = Color(0xFFF5D7C4)
         val contentNegative = Color(0xFFFEABA1)
@@ -232,12 +215,12 @@ object DsTokens {
         val backgroundPrimary = Color(0xFF0B0B0B)
         val backgroundHover = Color(0xFF151515)
         val backgroundPressed = Color(0xFF2A2A2A)
-        val backgroundSelected = Color(0xFF122555)
+        val backgroundSelected = Color(0xFF310456)
         val backgroundDisabled = Color(0xFF1F1F1F)
         val backgroundInverse = Color(0xFFF5F5F5)
-        val backgroundBrand = Color(0xFF7DA5FE)
-        val backgroundBrandHover = Color(0xFFA8C4FE)
-        val backgroundBrandPressed = Color(0xFFCFDEFF)
+        val backgroundBrand = Color(0xFFBE8FFF)
+        val backgroundBrandHover = Color(0xFFD6BCFF)
+        val backgroundBrandPressed = Color(0xFFE7DAFF)
         val backgroundInfo = Color(0xFF5FADF9)
         val backgroundInfoSubtle = Color(0xFF022A4D)
         val backgroundNotice = Color(0xFFE88F4C)
@@ -252,7 +235,7 @@ object DsTokens {
         val borderSecondary = Color(0xFF2A2A2A)
         val borderTertiary = Color(0xFF1F1F1F)
         val borderDisabled = Color(0xFF2A2A2A)
-        val borderBrand = Color(0xFF7DA5FE)
+        val borderBrand = Color(0xFFBE8FFF)
         val borderInverse = Color(0xFFABABAB)
         val borderFocus = Color(0xFF5FADF9)
         val borderInfo = Color(0xFF5FADF9)
@@ -269,23 +252,6 @@ object DsTokens {
         val surface6 = Color(0xFF4E4E4E)
         val overlay50 = Color(0x80000000)
         val overlay50Inverse = Color(0x80FFFFFF)
-        val colorDataCategory1 = Color(0xFF5FADF9)
-        val colorDataCategory2 = Color(0xFFE88F4C)
-        val colorDataCategory3 = Color(0xFF66BF75)
-        val colorDataCategory4 = Color(0xFFBE8DF4)
-        val colorDataCategory5 = Color(0xFFF07CAC)
-        val colorDataCategory6 = Color(0xFF60B6CA)
-        val colorDataCategory7 = Color(0xFFC1A63A)
-        val colorDataCategory8 = Color(0xFFFC7B6F)
-        val colorDataSequential1 = Color(0xFF122555)
-        val colorDataSequential2 = Color(0xFF1D3983)
-        val colorDataSequential3 = Color(0xFF284EB5)
-        val colorDataSequential4 = Color(0xFF3665E4)
-        val colorDataSequential5 = Color(0xFF5283FE)
-        val colorDataSequential6 = Color(0xFF7DA5FE)
-        val colorDataSequential7 = Color(0xFFA8C4FE)
-        val colorDataSequential8 = Color(0xFFCFDEFF)
-        val colorDataSequential9 = Color(0xFFE7EFFE)
     }
 
     val unit2 = 2.dp
@@ -332,10 +298,10 @@ object DsTokens {
     val space12xl = 112.dp
     val radiusNone = 0.dp
     val radiusXs = 4.dp
-    val radiusS = 8.dp
-    val radiusM = 12.dp
-    val radiusL = 16.dp
-    val radiusXl = 24.dp
+    val radiusS = 12.dp
+    val radiusM = 20.dp
+    val radiusL = 28.dp
+    val radiusXl = 40.dp
     val radiusPill = 999.dp
     val borderWidthXs = 1.dp
     val borderWidthS = 1.5.dp
@@ -354,7 +320,7 @@ object DsTokens {
     val layoutMarginDesktop = 16.dp
     val layoutMarginMobile = 16.dp
     val layoutGutter = 16.dp
-    const val fontFamilyBrand = "Inter"
+    const val fontFamilyBrand = "Poppins"
     const val fontFamilySystemIos = "SF Pro Text"
     const val fontFamilySystemAndroid = "Roboto"
     val fontWeightRegular = FontWeight.W400
@@ -390,7 +356,7 @@ object DsTokens {
     val lineHeight8xl = 64.sp
     val lineHeight9xl = 72.sp
     val lineHeight10xl = 80.sp
-    const val typographyFamily = "Inter"
+    const val typographyFamily = "Poppins"
     val typographyBreakpoint = 393.dp
     val typographyHeading5xlSemiboldWeight = FontWeight.W600
     val typographyHeading5xlSemiboldSize = 48.sp
@@ -496,11 +462,11 @@ object DsTokens {
     val elevation6Layer1OffsetY = 8.dp
     val elevation6Layer2Blur = 48.dp
     val elevation6Layer2OffsetY = 24.dp
-    const val motionDurationFast = 100
-    const val motionDurationMedium = 200
-    const val motionDurationSlow = 300
-    const val motionDurationEmphasis = 500
+    const val motionDurationFast = 140
+    const val motionDurationMedium = 260
+    const val motionDurationSlow = 400
+    const val motionDurationEmphasis = 600
     const val motionEasingStandard = "cubic-bezier(0.2, 0, 0, 1)"
-    const val motionEasingEnter = "cubic-bezier(0, 0, 0, 1)"
+    const val motionEasingEnter = "cubic-bezier(0.34, 1.56, 0.64, 1)"
     const val motionEasingExit = "cubic-bezier(0.3, 0, 1, 1)"
 }
